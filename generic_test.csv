@@ -1,0 +1,6 @@
+Product,Price,Quantity,Purchase Date,Supplier
+Laptop,1000,5,2022-01-01,Supplier A
+Phone,500,ten,2021-12-15,Supplier B
+Tablet,300,8,15th Feb 2021,Supplier A
+Monitor,150,15,2022-05-10,Supplier C
+Keyboard,invalid,,May 2021,
